@@ -1,1 +1,7 @@
 # Sorting-Visualizer
+USING
+-REACT
+-HEAP SORT  
+-BUBBLE SORT
+-MERGE SORT
+-QUICK SORT
